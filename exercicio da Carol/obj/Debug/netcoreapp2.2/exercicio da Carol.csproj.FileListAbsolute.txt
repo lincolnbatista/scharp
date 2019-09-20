@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\bin\Debug\netcoreapp2.2\exercicio da Carol.deps.json
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\bin\Debug\netcoreapp2.2\exercicio da Carol.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\bin\Debug\netcoreapp2.2\exercicio da Carol.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\bin\Debug\netcoreapp2.2\exercicio da Carol.dll
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\bin\Debug\netcoreapp2.2\exercicio da Carol.pdb
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\obj\Debug\netcoreapp2.2\exercicio da Carol.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\obj\Debug\netcoreapp2.2\exercicio da Carol.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\obj\Debug\netcoreapp2.2\exercicio da Carol.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\obj\Debug\netcoreapp2.2\exercicio da Carol.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\obj\Debug\netcoreapp2.2\exercicio da Carol.dll
+C:\Users\fic\Desktop\Csharp\exercicio da Carol\obj\Debug\netcoreapp2.2\exercicio da Carol.pdb

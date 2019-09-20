@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Do white com Array\bin\Debug\netcoreapp2.2\Do white com Array.deps.json
+C:\Users\fic\Desktop\Csharp\Do white com Array\bin\Debug\netcoreapp2.2\Do white com Array.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Do white com Array\bin\Debug\netcoreapp2.2\Do white com Array.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Do white com Array\bin\Debug\netcoreapp2.2\Do white com Array.dll
+C:\Users\fic\Desktop\Csharp\Do white com Array\bin\Debug\netcoreapp2.2\Do white com Array.pdb
+C:\Users\fic\Desktop\Csharp\Do white com Array\obj\Debug\netcoreapp2.2\Do white com Array.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Do white com Array\obj\Debug\netcoreapp2.2\Do white com Array.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Do white com Array\obj\Debug\netcoreapp2.2\Do white com Array.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Do white com Array\obj\Debug\netcoreapp2.2\Do white com Array.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Do white com Array\obj\Debug\netcoreapp2.2\Do white com Array.dll
+C:\Users\fic\Desktop\Csharp\Do white com Array\obj\Debug\netcoreapp2.2\Do white com Array.pdb

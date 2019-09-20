@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\bin\Debug\netcoreapp2.2\exercicio de problemas.deps.json
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\bin\Debug\netcoreapp2.2\exercicio de problemas.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\bin\Debug\netcoreapp2.2\exercicio de problemas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\bin\Debug\netcoreapp2.2\exercicio de problemas.dll
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\bin\Debug\netcoreapp2.2\exercicio de problemas.pdb
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\obj\Debug\netcoreapp2.2\exercicio de problemas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\obj\Debug\netcoreapp2.2\exercicio de problemas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\obj\Debug\netcoreapp2.2\exercicio de problemas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\obj\Debug\netcoreapp2.2\exercicio de problemas.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\obj\Debug\netcoreapp2.2\exercicio de problemas.dll
+C:\Users\fic\Desktop\Csharp\exercicio de problemas\obj\Debug\netcoreapp2.2\exercicio de problemas.pdb

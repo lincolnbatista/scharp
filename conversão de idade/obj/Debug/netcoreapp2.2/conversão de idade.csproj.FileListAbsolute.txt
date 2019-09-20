@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\conversão de idade\bin\Debug\netcoreapp2.2\conversão de idade.deps.json
+C:\Users\fic\Desktop\Csharp\conversão de idade\bin\Debug\netcoreapp2.2\conversão de idade.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\conversão de idade\bin\Debug\netcoreapp2.2\conversão de idade.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\conversão de idade\bin\Debug\netcoreapp2.2\conversão de idade.dll
+C:\Users\fic\Desktop\Csharp\conversão de idade\bin\Debug\netcoreapp2.2\conversão de idade.pdb
+C:\Users\fic\Desktop\Csharp\conversão de idade\obj\Debug\netcoreapp2.2\conversão de idade.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\conversão de idade\obj\Debug\netcoreapp2.2\conversão de idade.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\conversão de idade\obj\Debug\netcoreapp2.2\conversão de idade.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\conversão de idade\obj\Debug\netcoreapp2.2\conversão de idade.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\conversão de idade\obj\Debug\netcoreapp2.2\conversão de idade.dll
+C:\Users\fic\Desktop\Csharp\conversão de idade\obj\Debug\netcoreapp2.2\conversão de idade.pdb

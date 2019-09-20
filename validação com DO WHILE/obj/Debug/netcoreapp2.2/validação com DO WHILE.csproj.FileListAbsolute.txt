@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\bin\Debug\netcoreapp2.2\validação com DO WHILE.deps.json
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\bin\Debug\netcoreapp2.2\validação com DO WHILE.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\bin\Debug\netcoreapp2.2\validação com DO WHILE.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\bin\Debug\netcoreapp2.2\validação com DO WHILE.dll
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\bin\Debug\netcoreapp2.2\validação com DO WHILE.pdb
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\obj\Debug\netcoreapp2.2\validação com DO WHILE.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\obj\Debug\netcoreapp2.2\validação com DO WHILE.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\obj\Debug\netcoreapp2.2\validação com DO WHILE.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\obj\Debug\netcoreapp2.2\validação com DO WHILE.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\obj\Debug\netcoreapp2.2\validação com DO WHILE.dll
+C:\Users\fic\Desktop\Csharp\validação com DO WHILE\obj\Debug\netcoreapp2.2\validação com DO WHILE.pdb
